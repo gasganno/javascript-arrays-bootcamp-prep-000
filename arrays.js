@@ -1,4 +1,29 @@
-function addElementToBeginningOfArray(array, element) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*function addElementToBeginningOfArray(array, element) {
   newArray = [element, ...array];
   return newArray
 }
@@ -41,3 +66,4 @@ function removeElementFromEndOfArray(array) {
   newArray = array.slice(0, array.length - 1);
   return newArray
 }
+*/
